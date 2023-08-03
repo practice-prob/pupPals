@@ -40,3 +40,19 @@
 .read-the-docs {
   color: #888;
 }
+
+.App {
+  background-color: skyblue;
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.featuredPup {
+  background-color: palevioletred;
+}
+
+button {
+  background-color: skyblue;
+}
